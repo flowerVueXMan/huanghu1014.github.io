@@ -1,0 +1,79 @@
+var obj1 = [{
+	name:"徐坚",
+	imgs:"./img/content1.jpg",
+	mining:"./img/mintu1.png",
+	assess:"风景不错",
+	gz:"关注",
+	bfb:"100%",
+	dq:"上海",
+	sex:"男",
+	item:{
+		0:'1111',
+		1:"2222"
+	}
+},{
+	name:"曾广志",
+	imgs:"./img/content2.jpg",
+	mining:"./img/mintu2.png",
+	assess:"诚信",
+	gz:"关注",
+	bfb:"100%",
+	dq:"广州",
+	sex:"男",
+	item:{
+		0:'2115515',
+		1:"21564 "
+	}
+},{
+	name:"小明",
+	imgs:"./img/content3.jpg",
+	mining:"./img/mintu3.png",
+	assess:"好久没来了",
+	gz:"关注",
+	bfb:"80%",
+	dq:"重庆",
+	sex:"男",
+	item:{
+		0:'1111',
+		1:"2222"
+	}
+},{
+	name:"帆布包",
+	imgs:"./img/content4.jpg",
+	mining:"./img/mintu4.png",
+	assess:"哥们走起",
+	gz:"关注",
+	bfb:"100%",
+	dq:"上海",
+	sex:"女",
+	item:{
+		0:'1111',
+		1:"2222"
+	}
+},{
+	name:"胡芳芳",
+	imgs:"./img/content2.jpg",
+	mining:"./img/mintu5.png",
+	assess:"",
+	gz:"关注",
+	bfb:"100%",
+	dq:"上海",
+	sex:"女",
+	item:{
+		0:'1111',
+		1:"2222"
+	}
+},{
+	name:"南宁",
+	imgs:"./img/content1.jpg",
+	mining:"./img/mintu6.png",
+	assess:"翻滚吧",
+	gz:"关注",
+	bfb:"50%",
+	dq:"上海",
+	sex:"男",
+	item:{
+		0:'1111',
+		1:"2222"
+	}
+}];

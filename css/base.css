@@ -1,0 +1,36 @@
+/*去除标签默认外边距与内边距*/
+body,p,h1,h2,h3,h4,h5,h6,hr,pre,ul,li,ol,dl,dt,dd,form,input,textarea,th,td{
+	margin: 0;
+	padding:0;
+}
+*{margin: 0;
+	padding:0;}
+/*去列表默认样式*/
+ul li,ol li{
+	list-style: none;
+}
+/*清除a标签默认样式*/
+a{
+	text-decoration: none;
+}
+/*去除b,strong默认加粗样式*/
+b,strong{
+	font-weight: normal;
+}
+/*去除s,dle,a,u标签默认样式*/
+s,dle,a,u{
+	text-decoration: none;
+}
+/*去除em,i,倾斜样式*/
+em.i{
+	font-size: normal;
+}
+/*清除input,img默认样式*/
+input,img{
+	border: 0;
+}
+/*去除input表单默认外轮 内轮*/
+button,input{
+	outline: none;
+	border: none;
+}
